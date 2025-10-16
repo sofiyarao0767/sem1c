@@ -1,2 +1,2 @@
 # sem1c
-hi
+this is my repository for semesster 1 programming in c
